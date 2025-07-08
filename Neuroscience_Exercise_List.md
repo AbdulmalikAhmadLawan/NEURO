@@ -1,3 +1,35 @@
+🧠 Beginner Python Exercises for Neuroscience Data
+Load a CSV file containing neuron spike counts and display the first 5 rows using pandas.
+
+Use NumPy to create a synthetic array of firing rates for 10 neurons over 5 time points.
+
+Plot a line chart of firing rate over time for one neuron using matplotlib.
+
+Create a bar chart comparing the total spike count of 5 neurons.
+
+Calculate the mean and standard deviation of a neuron’s firing rate using numpy.
+
+Simulate a neuron’s response to a stimulus as a sine wave using NumPy and plot it.
+
+Use pandas to filter rows where spike count is above a threshold.
+
+Group data by stimulus condition and compute average firing rate using pandas.
+
+Generate a heatmap of neuron activity (neurons × time) using matplotlib’s imshow.
+
+Label axes and add a title and legend to a plot of three neurons’ activity over time.
+
+Detect values above threshold in a signal and mark them as spikes (binary 0/1).
+
+Save your analysis results (e.g., summary stats) to a new CSV file using pandas.
+
+Use seaborn to plot a violin plot showing distribution of firing rates across neurons.
+
+Load a JSON file containing metadata for a neuron recording session and print summary info.
+
+Plot spike times of neurons using raster plots (plt.eventplot).
+
+
 # 🧪 Progressive Exercises: From Elementary to Advanced
 
 ## Beginner 🟢
